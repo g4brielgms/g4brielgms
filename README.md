@@ -1,7 +1,5 @@
 # Olá, eu sou o Gabriel Gomes! 👋
 
-### Graduando em Segurança da Informação | DevSecOps, Cloud & Cybersecurity
-
 Atualmente curso **Segurança da Informação na FATEC São Caetano do Sul** e possuo formação técnica em **Redes de Computadores pelo SENAI**. Meu foco é unir infraestrutura resiliente, automação de processos e segurança ativa.
 
 ---
