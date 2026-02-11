@@ -10,8 +10,8 @@ Atualmente cursando **Segurança da Informação na FATEC**, com sólida base t�
 
 - 🏗️ **Infraestrutura:** Servidores Linux/Windows, Virtualização e Redes Cisco.
 - ☁️ **Cloud Computing:** Experiência em Microsoft Azure (AZ-900) e estudos em AWS/GCP.
-- 🔐 **Cibersegurança:** Defesa cibernética, análise de vulnerabilidades e resposta a incidentes.
-- 🤖 **Automação & Orquestração:** Docker, Docker Compose e scripts em Python/Bash.
+- 🔐 **Cibersegurança:** Boas Práticas de Segurança em Ambientes Corporativos
+- 🤖 **Automação & Orquestração:** Docker, Docker Compose e scripts em Bash.
 
 ---
 
@@ -23,19 +23,19 @@ Atualmente cursando **Segurança da Informação na FATEC**, com sólida base t�
 
 ### 🌟 Projetos em Destaque
 
-#### 🐳 [Full Stack Monitoring & Security - Docker Compose]
+#### 🐳 Full Stack Monitoring & Security - Docker Compose
 *Orquestração de serviços para alta disponibilidade e monitoramento.*
 - Deploy automatizado de containers utilizando **Docker Compose**.
 - Configuração de **Proxy Reverso com Nginx** para segurança e balanceamento de carga.
 - Monitoramento em tempo real de ativos de rede e servidores com **Zabbix**.
 - **Stacks:** Docker, Nginx, Zabbix, MySQL.
 
-#### 🧠 [TCC: IA & Cibersegurança] (Liderança de Projeto)
+#### 🧠 TCC: IA & Cibersegurança (Liderança de Projeto)
 *Sistema inteligente de detecção e mitigação de ameaças.*
 - Atuei como **Líder do Time**, coordenando a lógica de IA para resolução autônoma de falhas de segurança.
 - Foco em segurança proativa e redução de MTTR.
 
-#### 🛡️ [SecurityCompany / SentinelWeb]
+#### 🛡️ SecurityCompany / SentinelWeb
 - Implementação de Hardening em sistemas Linux e segurança de perímetro.
 
 ---
