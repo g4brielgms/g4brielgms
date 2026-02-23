@@ -1,6 +1,6 @@
 # Olá, eu sou o Gabriel Gomes! 👋
 
-### 🚀 Apaixonado por Infraestrutura, Cloud e DevSecOps
+### 🚀 Apaixonado por Cibersegurança, Cloud e DevSecOps
 
 Atualmente cursando **Segurança da Informação na FATEC**, com sólida base técnica em **Redes (SENAI)**. Sou um entusiasta da cultura DevOps e DevSecOps, focado em automatizar processos e garantir a resiliência de ambientes críticos.
 
@@ -10,7 +10,7 @@ Atualmente cursando **Segurança da Informação na FATEC**, com sólida base t�
 
 - 🏗️ **Infraestrutura:** Servidores Linux/Windows, Virtualização e Redes Cisco.
 - ☁️ **Cloud Computing:** Experiência em Microsoft Azure (AZ-900) e estudos em AWS/GCP.
-- 🔐 **Cibersegurança:** Boas Práticas de Segurança em Ambientes Corporativos
+- 🔐 **Cibersegurança:** Implementação de ACLs e Análise de Logs
 - 🤖 **Automação & Orquestração:** Docker, Docker Compose e scripts em Bash.
 
 ---
