@@ -1,54 +1,57 @@
 # Olá, eu sou o Gabriel Gomes! 👋
 
-### 🚀 Apaixonado por Cibersegurança, Cloud e DevSecOps
-
-Atualmente cursando **Segurança da Informação na FATEC**, com sólida base técnica em **Redes (SENAI)**. Sou um entusiasta da cultura DevOps e DevSecOps, focado em automatizar processos e garantir a resiliência de ambientes críticos.
-
----
-
-### 🛠️ No que eu trabalho:
-
-- 🏗️ **Infraestrutura:** Servidores Linux/Windows, Virtualização e Redes Cisco.
-- ☁️ **Cloud Computing:** Experiência em Microsoft Azure (AZ-900) e estudos em AWS/GCP.
-- 🔐 **Cibersegurança:** Implementação de ACLs e Análise de Logs
-- 🤖 **Automação & Orquestração:** Docker, Docker Compose e scripts em Bash.
+### 🚀 Aspiring Cloud, InfoSec & Infrastructure Professional
+Estudante de **Segurança da Informação** na FATEC e Técnico em **Redes de Computadores** pelo SENAI. Focado em alta disponibilidade, resiliência e automação.
 
 ---
 
-### 💻 Tecnologias & Ferramentas
+## 🛠️ Tecnologias e Hard Skills
 
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+### **Infraestrutura & Cloud**
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Windows Server](https://img.shields.io/badge/Windows%20Server-0078D6?style=for-the-badge&logo=microsoft&logoColor=white)
+
+### **Linguagens & Automação**
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+
+
+---
+## 📊 Conhecimentos Específicos & Atuação
+
+### **Infraestrutura de Redes & Servidores**
+Sólida experiência teórica e prática consolidada pela formação no **SENAI**. Domínio em arquitetura de redes local e remota, com foco em protocolos **TCP/IP, DNS, DHCP** e configuração de ativos de rede. Especialista em administração de ambientes **Windows Server (Active Directory)** e distribuições **Linux (Debian/Ubuntu)**.
+
+### **Cloud Computing & Virtualização**
+Certificado **Microsoft Azure Fundamentals (AZ-900)**. Conhecimentos aplicados em governança de nuvem, gestão de identidades e acessos (**IAM**), além de implementação de ambientes isolados e escaláveis utilizando **Docker e Docker Compose**.
+
+### **Automação & Lógica de Programação**
+Desenvolvimento de scripts para otimização de rotinas operacionais e manutenção de sistemas utilizando **Python, Bash e PowerShell**. Experiência em análise de código-fonte e automação de deploys simples com foco em ganho de produtividade.
+
+### **Monitoramento & Observabilidade**
+Implementação de soluções de monitoramento proativo utilizando **Zabbix** e **Nginx**. Foco em gestão de incidentes, criação de dashboards de métricas e configuração de alarmística para garantir a alta disponibilidade de serviços.
+
+### **Cibersegurança & Gestão**
+Estudante de **Segurança da Informação na FATEC**, com foco em proteção de dados e conformidade. Experiência em liderança técnica de projetos acadêmicos (TCC), atuando na gestão de prazos, cronogramas e coordenação de equipes multidisciplinares.
 
 ---
 
-### 🌟 Projetos em Destaque
+## 🏗️ Projetos em Destaque
 
-#### 🐳 Full Stack Monitoring & Security - Docker Compose
-*Orquestração de serviços para alta disponibilidade e monitoramento.*
-- Deploy automatizado de containers utilizando **Docker Compose**.
-- Configuração de **Proxy Reverso com Nginx** para segurança e balanceamento de carga.
-- Monitoramento em tempo real de ativos de rede e servidores com **Zabbix**.
-- **Stacks:** Docker, Nginx, Zabbix, MySQL.
+### 🎓 [Liderança de TCC] Sistema de Detecção de Falhas com IA
+**Papel: Líder de Projeto e Arquiteto de Infraestrutura**
+- Liderança de equipe multidisciplinar no desenvolvimento de um sistema para diagnóstico preventivo de falhas.
+- Responsável pela **Gestão de Prazos (Cronograma)**, definição da arquitetura técnica e integração entre os módulos de IA e infraestrutura.
+- Aplicação de metodologias de organização para garantir a entrega de documentação e protótipo funcional.
 
-#### 🧠 TCC: IA & Cibersegurança (Liderança de Projeto)
-*Sistema inteligente de detecção e mitigação de ameaças.*
-- Atuei como **Líder do Time**, coordenando a lógica de IA para resolução autônoma de falhas de segurança.
-- Foco em segurança proativa e redução de MTTR.
-
-#### 🛡️ SecurityCompany / SentinelWeb
-- Implementação de Hardening em sistemas Linux e segurança de perímetro.
+### 🛡️ [SecurityCompany](https://github.com/g4brielgms/SecurityCompany)
+Ambiente conteinerizado para observabilidade e alta disponibilidade.
+- **Destaque:** Implementação de alarmística e monitoramento de ativos via Docker e Zabbix.
 
 ---
 
-### 📜 Certificações Recentes
-
-- 🌐 **Cisco (2025):** Network Support and Security / Networking Devices.
-- 🐍 **Cisco:** Python Essentials (Automação).
-- ☁️ **Microsoft:** Azure Fundamentals (AZ-900).
-- 🐧 **SENAI:** Administração de Redes Linux.
-- 
----
-
-### 📫 Contato:
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gms011) [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.gms048@gmail.com)
+## 📫 Vamos nos conectar?
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-gms011/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.gms048@gmail.com)
